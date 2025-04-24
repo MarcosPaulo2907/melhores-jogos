@@ -1,0 +1,10 @@
+/*body{
+    background-color: black;
+    color: blue;
+} mudar o fundo e as cores das letras*/
+
+ /*body  {background-image: url(../imagens/vava.jpg)
+ } serve para colocar imagen no fundo*/
+
+ body  {background-image: url(../imagens/banana.gif)
+ }
